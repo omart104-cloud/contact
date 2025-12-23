@@ -1,0 +1,20 @@
+flutter_native_splash:
+  # Dark Blue background for all platforms
+  color: "#29384D"
+
+  # Facebook logo in the center (should be ~1200x1200px or larger)
+  image: assets/images/spl.png
+  # Hide notification bar
+  fullscreen: true
+
+  # Android 12+ configuration
+  android_12:
+    # Dark Blue background
+    color: "#29384D"
+
+    # Facebook logo in center (960x960px recommended)
+    image: assets/images/spl.png
+
+    # Dark Blue background behind the icon
+    icon_background_color: "#29384D"
+
