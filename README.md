@@ -59,7 +59,7 @@ The app architecture relies on efficient navigation patterns:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/contact_app.git](https://github.com/your-username/contact_app.git)
+    git clone https://github.com/omart104-cloud/contact
     ```
 2.  **Navigate to the project directory:**
     ```bash
