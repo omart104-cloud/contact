@@ -79,9 +79,7 @@ The app architecture relies on efficient navigation patterns:
 ## 📦 Main Dependencies
 
 * `image_picker`: For handling camera and gallery image selection.
-* `video_player` & `chewie`: For integrated video streaming capabilities.
 * `google_fonts`: For custom typography.
-* `font_awesome_flutter`: For modern social and utility icons.
 
 ---
 
